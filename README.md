@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 ### Connect with me
 - 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
 
-- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/zalak-bhojani/) or on [github](https://github.com/ZalakBhojani).
+- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/zalak-bhojani/) or on [discord](https://discordapp.com/users/377445952187006976).
