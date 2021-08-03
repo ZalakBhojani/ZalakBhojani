@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * Python
 
 ### Some things I like to do
-* Competitive Programming, I am an active participant in Codeshef, Codeforces and Atcoder. My handler is `zalak_b` in all these sites.
+* Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handler is `zalak_b` in all these sites.
 * Web development using MERN stack, and sometimes Flask.
 
 
