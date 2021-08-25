@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 * I am Zalak Bhojani, a programming enthusiast.
-* I am currently an analyst Intern at UltraTech (Aditya Birla Group)
+* In the past, I have interned at UltraTech (Aditya Birla Group) and Synergy Community
 
 ### Some languages I'm familiar with
 * C++
