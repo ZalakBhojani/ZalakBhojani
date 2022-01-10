@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 * I am Zalak Bhojani, a programming enthusiast.
-* In the past, I have interned at UltraTech (Aditya Birla Group) and Synergy Community
+* I'm currently a software engineer intern at Browserstack
 
 ### Some languages I'm familiar with
 * C++
 * Javascript
+* Typescript
 * Java
 * Python
+
+### I’m currently learning
+* Ruby on Rails
 
 ### Some things I like to do
 * Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handler is `zalak_b` in all these sites.
@@ -29,6 +33,6 @@ Here are some ideas to get you started:
 
 
 ### Connect with me
-- 💬 Feel free to ask for any help in any of the above things, I will definitely try to help.
+- 💬 Feel free to ask for any help in any of the above things.
 
-- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/zalak-bhojani/) or on [discord](https://discordapp.com/users/377445952187006976).
+- 📫 How to reach me: Connect with me on [linkedin](https://www.linkedin.com/in/zalak-bhojani/) or on [twitter](https://twitter.com/Zalak00).
