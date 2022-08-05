@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 * I am Zalak Bhojani, a programming enthusiast.
-* I'm currently a software engineer intern at Browserstack
+* I'm currently a software development engineer at AWS 
+* I have previously interned at BrowserStack as backend developer.
 
 ### Some languages I'm familiar with
 * C++
 * Javascript
-* Typescript
+* Ruby
 * Java
 * Python
 
 ### I’m currently learning
-* Ruby on Rails
+* Rust
+* Go
 
 ### Some things I like to do
 * Competitive Programming, I am an active participant in Codechef, Codeforces and Atcoder. My handler is `zalak_b` in all these sites.
